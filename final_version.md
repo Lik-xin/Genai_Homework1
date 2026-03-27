@@ -2,14 +2,10 @@
   <h1>Human-Centered AI for Learning and Research</h1>
   <p><em>Manual revision version for Homework 1</em></p>
 </div>
-
-> [!IMPORTANT]
-> The assignment requires you to edit this file yourself in your editor before the final submission.
-
 <!-- Manual edit idea: rewrite the first sentence so it sounds more like your natural voice. -->
 ## Short Introduction
 
-I am Lik-xin, a student who enjoys using technology to make complex information easier to understand and act on. I am especially drawn to tools that reduce friction in knowledge-heavy work and help people move from confusion to clarity more quickly.
+I am Xinyi Li, a student who enjoys using technology to make complex information easier to understand and act on. I am especially drawn to tools that reduce friction in knowledge-heavy work and help people move from confusion to clarity more quickly.
 
 <!-- Manual edit idea: add one specific detail about your own major, interests, background, or career goals here. -->
 ## Area I Care About
