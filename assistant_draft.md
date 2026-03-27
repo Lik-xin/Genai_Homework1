@@ -8,7 +8,7 @@
 
 ## Short Introduction
 
-I am Lik-xin, a student who enjoys using technology to make complex information easier to understand and act on. I am especially drawn to tools that reduce friction in knowledge-heavy work and help people move from confusion to clarity more quickly.
+I am Xinyi Li, a student who enjoys using technology to make complex information easier to understand and act on. I am especially drawn to tools that reduce friction in knowledge-heavy work and help people move from confusion to clarity more quickly.
 
 ## Area I Care About
 
