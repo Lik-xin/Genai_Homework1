@@ -55,13 +55,6 @@ Add your unlisted YouTube or Vimeo link here before submission:
 
 `VIDEO_LINK_PLACEHOLDER`
 
-## Remaining User-Only Steps
-
-Two parts of the assignment still need your direct input so the submission stays honest and matches the rubric:
-
-1. Open `final_version.md` in your editor and make your own manual revisions.
-2. Record the required 30 to 90 second walkthrough video and replace the placeholder link above.
-
 ## Reflection
 
 This assignment is a useful introduction to the workflow we will use throughout the course. It highlights that the assistant is most effective as a drafting and acceleration tool, while the final quality still depends on human judgment, revision, and clear version control.
