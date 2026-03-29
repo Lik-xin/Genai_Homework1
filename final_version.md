@@ -3,7 +3,7 @@
   <p><em>Manual revision version for Homework 1</em></p>
 </div>
 <!-- Manual edit idea: rewrite the first sentence so it sounds more like your natural voice. -->
-Short Introduction
+#Short Introduction
 
 I am Xinyi Li, a student who enjoys using technology to make complex information easier to understand and act on. I am especially drawn to tools that reduce friction in knowledge-heavy work and help people move from confusion to clarity more quickly.
 
