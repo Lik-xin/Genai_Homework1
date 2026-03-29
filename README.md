@@ -53,7 +53,7 @@ The repository is being built through small, incremental commits. The working co
 
 Add your unlisted YouTube or Vimeo link here before submission:
 
-`VIDEO_LINK_PLACEHOLDER`
+`https://youtu.be/JnSk1vv7NMU`
 
 ## Reflection
 
